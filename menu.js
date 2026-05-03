@@ -30,32 +30,32 @@ const menu = [
 {
             type: "item",
             title: "exercise-1",
-            file: "data/lessons/cb138_l10_ex1.json"
+            file: "cb138_l10_ex1.json"
           },
 {
             type: "item",
             title: "exercise-2",
-            file: "data/lessons/cb138_l10_ex2.json"
+            file: "cb138_l10_ex2.json"
           },
 {
             type: "item",
             title: "exercise-3",
-            file: "data/lessons/cb138_l10_ex3.json"
+            file: "cb138_l10_ex3.json"
           },
           {
             type: "item",
             title: "exercise-4",
-            file: "data/lessons/cb138_l10_ex4.json"
+            file: "cb138_l10_ex4.json"
           },
  {
             type: "item",
             title: "exercise-5",
-            file: "data/lessons/cb138_l10_ex5.json"
+            file: "cb138_l10_ex5.json"
           },
 {
             type: "item",
             title: "exercise-6",
-            file: "data/lessons/cb138_l10_ex6.json"
+            file: "cb138_l10_ex6.json"
           },
         ]
       },
@@ -66,37 +66,37 @@ const menu = [
 {
             type: "item",
             title: "ex-1",
-            file: "data/lessons/cb138_l12_ex1.json"
+            file: "cb138_l12_ex1.json"
           },
 {
             type: "item",
             title: "ex-2",
-            file: "data/lessons/cb138_l12_ex2.json"
+            file: "cb138_l12_ex2.json"
           },
 {
             type: "item",
             title: "ex-3",
-            file: "data/lessons/cb138_l12_ex3.json"
+            file: "cb138_l12_ex3.json"
           },
           {
             type: "item",
             title: "ex-4",
-            file: "data/lessons/cb138_l12_ex4.json"
+            file: "cb138_l12_ex4.json"
           },
  {
             type: "item",
             title: "ex-5",
-            file: "data/lessons/cb138_l12_ex5.json"
+            file: "cb138_l12_ex5.json"
           },
  {
             type: "item",
             title: "warmup-1",
-            file: "data/lessons/cb138_l12_wup1.json"
+            file: "cb138_l12_wup1.json"
           },
  {
             type: "item",
             title: "warmup-2",
-            file: "data/lessons/cb138_l12_wup2.json"
+            file: "cb138_l12_wup2.json"
           },
 ]
       },
